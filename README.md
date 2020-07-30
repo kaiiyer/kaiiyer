@@ -6,7 +6,8 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
 
-#### :game_die: Are you a 0 or 1? Can you get a 1?
+
+## :game_die: Are you a 0 or 1?
 <!--
 **kaiiyer/kaiiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
