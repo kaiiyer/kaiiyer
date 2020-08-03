@@ -7,8 +7,16 @@
 
 Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world
 
- 
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
+<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="You found me!" align="right"/>
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
+<img src="https://media.giphy.com/media/c4u2gld3Or69i/giphy.gif" alt="Oh Shit!" align="right"> -->
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
+<img src="https://media.giphy.com/media/Ajv99CFaqeXEQ/giphy.gif" alt="Oh Shit" align="right"/> -->
 
 
 ## :game_die: Are you odd or even?
