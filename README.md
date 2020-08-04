@@ -20,14 +20,12 @@ Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ ani
 
 
 ## :game_die: Are you odd or even?
- The ability to both “be” and “not be” – is key to the power of ~~quantum computing~~ ___whatever____!!
+ The ability to both “be” and “not be” – is key to the power of ~~quantum computing~~ ___whatever___!!
  
  
 - ⚡ Fun fact: ... _“qubits” can represent a 0 or a 1. The crazy thing is, qubits can also achieve a mixed state, called a “superposition” where they are both 1 and 0 at the same time._
 <!--
 **kaiiyer/kaiiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
