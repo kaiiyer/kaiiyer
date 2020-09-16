@@ -6,9 +6,12 @@
 
 
 Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
-<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="You found me!" align="right"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="You found me!" width="30%" align="right"/>
+-->
+![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
+<img src="https://media.giphy.com/media/iIAqUrSHqM1cvCJorI/giphy.gif" alt="You found me!" width="30%" align="right"/>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
