@@ -8,7 +8,7 @@
 Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world
 
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
-<img src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif" alt="You found me!" align="right"/>
+<img src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif" alt="You found me!" width="40%" align="right"/>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
