@@ -8,11 +8,11 @@
 Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world
 
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="You found me!" width="30%" align="right"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="You found me!" width="30%" align="right"/>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true)
-<img src="https://media.giphy.com/media/Ajv99CFaqeXEQ/giphy.gif" alt="Oh Shit" align="right"/> -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Oh Shit" align="right"/> -->
 
 
 ## :game_die: Are you odd or even?
