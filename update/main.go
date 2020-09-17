@@ -25,7 +25,7 @@ func makeReadme(filename string) error {
 	who := rand.Intn(len(whoList))
 	whatList := []string{"👍", "🎉", "💕", "🤷", "👏", "🙌"}
 	what := rand.Intn(len(whatList))
-	date := time.Now().Format("2 Sep 2020")
+	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
 	hello := "### Hello! I’m Kai Iyer. 👋\n\n ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.visitor-badge)	[![Twiiter Badge](https://img.shields.io/badge/@kaiiyer-blueviolet?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kaiiyer)](https://twitter.com/kaiiyer)	[![Medium Badge](https://img.shields.io/badge/@kaiiyer-black?style=flat-square&labelColor=00000&logo=medium&logoColor=white&link=https://medium.com/@kaiiyer)](https://medium.com/@kaiiyer)	[![Pinterest Badge](https://img.shields.io/badge/@kai_iyer-darkred?style=flat-square&labelColor=red&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/kai_iyer/)](https://www.pinterest.com/kai_iyer/) \n\nNice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world"
