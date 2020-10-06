@@ -1,8 +1,7 @@
 ### Hello! I’m Kai Iyer. 👋
 
- ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.visitor-badge) [![Twiiter Badge](https://img.shields.io/badge/@kaiiyer-blueviolet?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kaiiyer)](https://twitter.com/kaiiyer)	[![Medium Badge](https://img.shields.io/badge/@kaiiyer-black?style=flat-square&labelColor=00000&logo=medium&logoColor=white&link=https://medium.com/@kaiiyer)](https://medium.com/@kaiiyer)	[![Pinterest Badge](https://img.shields.io/badge/@kai_iyer-darkred?style=flat-square&labelColor=red&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/kai_iyer/)](https://www.pinterest.com/kai_iyer/) 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.visitor-badge)	[![Twiiter Badge](https://img.shields.io/badge/@kaiiyer-blueviolet?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kaiiyer)](https://twitter.com/kaiiyer)	[![Medium Badge](https://img.shields.io/badge/@kaiiyer-black?style=flat-square&labelColor=00000&logo=medium&logoColor=white&link=https://medium.com/@kaiiyer)](https://medium.com/@kaiiyer)	[![Pinterest Badge](https://img.shields.io/badge/@kai_iyer-darkred?style=flat-square&labelColor=red&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/kai_iyer/)](https://www.pinterest.com/kai_iyer/) 
 
-<!-- ![](https://komarev.com/ghpvc/?username=kaiiyer&color=red&style=flat-square&label=visitors)-->
 Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ anime world
 
 
@@ -12,6 +11,6 @@ Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ ani
 
  - I attend hackathons and speak about trending technologies.
 
- - This 🌮 says they 🤷 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
+ - This 🦔 says they 🤷 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
 Last updated by magic on 6 Oct 2020.
