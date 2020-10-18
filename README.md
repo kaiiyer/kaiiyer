@@ -14,3 +14,5 @@ Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ ani
  - This 🐹 says they 👍 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
 Last updated by magic on 18 Oct 2020.
+
+Some changes to the repo
