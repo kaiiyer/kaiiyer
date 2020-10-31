@@ -7,10 +7,10 @@ Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ ani
 
  ![](https://github-readme-stats.vercel.app/api?username=kaiiyer&count_private=true&theme=dark&show_icons=true) <img src='https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif' alt='You found me!' width='37%' align='right'/> 
 
- I’m an Infosec developer :zap: and Privacy Advocate. I develop my skills and continuously push my limits.
+ I’m an Infosec developer :zap: and Privacy Advocate. I upgrade my skills and continuously push my limits.
 
  - I attend hackathons and speak about trending technologies.
 
- - This 🦔 says they 🎉 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
+ - This 🥑 says they 🤷 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
 Last updated by magic on 31 Oct 2020.
