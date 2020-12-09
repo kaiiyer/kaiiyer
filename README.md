@@ -11,6 +11,6 @@ Nice to meet you! I'm currently exploring the ~~trends in the Cyber Market~~ ani
 
  - I attend hackathons and speak about trending technologies.
 
- - This 🌮 says they 👏 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
+ - This 🐣 says they 🙌 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
-Last updated by magic on 8 Dec 2020.
+Last updated by magic on 9 Dec 2020.
