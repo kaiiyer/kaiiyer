@@ -7,9 +7,9 @@
 #### I'm currently exploring the ~~trends in the Cyber Market~~ Anime World
 
 
-  <img src='https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif' alt='You found me!' width='40%' align='right'/> 
-
 ✨ I’m an Infosec developer :zap: I love breaking the limits with smart work. 
+
+  <img src='https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif' alt='You found me!' width='40%' align='right'/> 
 
  - 🌱 I attend **hackathons** and speak about trending technologies.
 
@@ -19,7 +19,7 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 🐹 says they 👍 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
+ - This 🦡 says they 👍 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
 Last updated by magic on 28 Dec 2020.
 
