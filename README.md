@@ -21,6 +21,6 @@
 
  - This 🦡 says they 🎉 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
-Last updated by magic on 25 Jan 2021.
+Last updated by magic on 26 Jan 2021.
 
  ---
