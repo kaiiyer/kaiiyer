@@ -19,8 +19,8 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 🦄 says they 🎉 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
+ - This 🐷 says they 👍 my latest blog post: **[Finding Your Ikigai by Hitting a Wall](https://blog.kaiiyer.ninja/Finding-your-Ikigai-by-hitting-a-wall.html)**
 
-Last updated by magic on 31 Jan 2021.
+Last updated by magic on 1 Feb 2021.
 
  ---
