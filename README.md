@@ -19,8 +19,8 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 🦄 says they 👍 my latest blog post: **[Is Security Operations a Nightmare? An Analyst's Perspective](https://blog.kaiiyer.ninja/Is-Security-Operations-a-Nightmare.html)**
+ - This 🐷 says they ⭐️ my latest blog post: **[Is Security Operations a Nightmare? An Analyst's Perspective](https://blog.kaiiyer.ninja/Is-Security-Operations-a-Nightmare.html)**
 
-Last updated by magic on 6 Feb 2021.
+Last updated by magic on 7 Feb 2021.
 
  ---
