@@ -1,5 +1,5 @@
 
-module github.com/victoriadrake/victoriadrake/update
+module github.com/kaiiyer/kaiiyer/update
 
 go 1.14
 
