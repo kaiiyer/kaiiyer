@@ -13,7 +13,7 @@ import (
 
 func makeReadme(filename string) error {
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://blog.kaiiyer.ninja/rss.xml")
+	feed, err := fp.ParseURL("https://blog.kaiiyer.co/rss.xml")
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 	}
