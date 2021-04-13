@@ -21,6 +21,6 @@
 
  - This 🦄 says they 🎉 my latest blog post: **[Is Security Operations a Nightmare? An Analyst's Perspective](https://blog.kaiiyer.co/Is-Security-Operations-a-Nightmare.html)**
 
-Last updated by magic on 12 Apr 2021.
+Last updated by magic on 13 Apr 2021.
 
  ---
