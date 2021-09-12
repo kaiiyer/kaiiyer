@@ -19,8 +19,8 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 🦡 says they ⭐️ my latest blog post: **[Is Security Operations a Nightmare? An Analyst's Perspective](https://blog.kaiiyer.co/Is-Security-Operations-a-Nightmare.html)**
+ - This 🦔 says they 👍 my latest blog post: **[Are you detecting WMI abuse the right way?](https://blog.kaiiyer.co/Are-you-detecting-20-WMI-abuse-the-right-way.html)**
 
-Last updated by magic on 5 Sep 2021.
+Last updated by magic on 12 Sep 2021.
 
  ---
