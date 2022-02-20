@@ -19,8 +19,8 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 🦄 says they 👏 my latest blog post: **[Are you detecting WMI abuse the right way?](https://blog.kaiiyer.co/Are-you-detecting-WMI-abuse-the-right-way.html)**
+ - This 🦔 says they ⭐️ my latest blog post: **[Are you detecting WMI abuse the right way?](https://blog.kaiiyer.co/Are-you-detecting-WMI-abuse-the-right-way.html)**
 
-Last updated by magic on 13 Feb 2022.
+Last updated by magic on 20 Feb 2022.
 
  ---
