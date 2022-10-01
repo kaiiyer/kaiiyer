@@ -8,7 +8,7 @@
 #### I'm currently exploring the ~~trends in the Cyber Market~~ Anime World
 
 
-✨ I’m an Infosec developer :zap: I love breaking the limits with smart work. 
+✨ I’m an Infosec dev :zap:
 
  - 🌱 I attend **hackathons** and speak about trending technologies.
 
