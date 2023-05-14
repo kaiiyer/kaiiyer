@@ -18,8 +18,8 @@
 
  - 😄 I'm Kai Iyer in Japan & NetworkOverclocker in Canada. 
 
- - This 👨‍💻 says they 🎉 my latest blog post: **[Intellectual Ninja](https://kaiiyer.github.io/blog/Insights-of-Sitecore-XP-Deserialization-RCE-CVE-2021–42237.html)**
+ - This 🦔 says they 👍 my latest blog post: **[Intellectual Ninja](https://kaiiyer.github.io/blog/Insights-of-Sitecore-XP-Deserialization-RCE-CVE-2021–42237.html)**
 
-Last updated by magic on 1 May 2023.
+Last updated by magic on 14 May 2023.
 
  ---
